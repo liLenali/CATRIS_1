@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8199728205928543467
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 729808766496460500, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2080835026199580746, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 280bdc1743e977c46a89014075801e2b, type: 3}
+    - target: {fileID: 2613783133390756940, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6a6f271384b5ae34aa2f2081f13e02c4, type: 3}
+    - target: {fileID: 4576115476946571708, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: dd1fcb6daa2032146834e806990df9e1, type: 3}
+    - target: {fileID: 5661615043445511478, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_Name
+      value: Tetris Object J_C
+      objectReference: {fileID: 0}
+    - target: {fileID: 8318217710741586165, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e43ff1b231ad2364f9abb10b35decc3e, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2ab76a4545fe9734481b16a4fb12672b, type: 3}
